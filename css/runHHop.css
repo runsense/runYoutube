@@ -9,7 +9,7 @@ body{background:  url('hhop.png') fixed center;}
 #dtc{position:absolute;left:15%;top:2%;}#yT{position:relative;left:-1%;}#page{position:absolute;left:18%;top:25%;color:rgb(255,0,0);opacity:0;z-index:4!important;}
 .navbar-brand{animation: textanm 4s ease-in-out 1s infinite;}
 .boxanm{animation: boxanm 4s ease-out 5s infinite;}
-.nav {margin-top: -10px; }
+.nav {margin-top: -10px;width:100%; padding-left: 4%; }
 .nav li{display: inline;text-decoration:none; font-size:90%;}
 .navbar-nav,.uslc,.nav li a:focus{color:#a40200;text-shadow: 0 0 3px #DAA520, 5px 2px 5px #a90200;z-index:1;}
 .visit{box-shadow: 0 0 3px #DAA520, 5px 2px 5px #a40200;border-top-right-radius:18em;border-bottom-left-radius:1em;}
