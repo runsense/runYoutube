@@ -3,3 +3,29 @@ git add . -A
 git commit -m "message"
 git pull origin gh-pages
 git push origin gh-pages
+
+git clone --branch gh-pages https://github.com/runsense/js.git gh-pages
+
+# Go to local project code repository.
+$ cd myproject
+ 
+# Code repo ignores the documentation repo.
+$ echo gh-pages/ >> .gitignore
+ 
+# Make another repo in gh-pages sub-directory.
+# There is nothing magic about the sub-directory name, it can be anything you like.
+$ git clone https://github.com/<username>/<projectname>.git gh-pages
+ 
+# Create gh-pages branch and push it to Github.
+# See https://help.github.com/articles/creating-project-pages-manually/
+$ cd gh-pages
+$ git checkout --orphan gh-pages
+$ git rm -rf .
+$ echo "Nothing to see yet, move along..." > index.html
+$ git add index.html
+$ git commit -am "First pages commit"
+$ git push origin gh-pages
+$ git branch -u origin/gh-pages   # Track gh-pages branch on remote.
+ 
+$ git branch -D master  # We don't need code branches.
+$ cd ..                 # Return to code repo.
