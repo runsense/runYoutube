@@ -1,5 +1,4 @@
 body{background:  url('hhop.png') fixed center;}
-@keyframes choice{10%{border:5px double white;opacity:0.3;zoom:150%;color:rgb(158,20,20);}50% {border:10px double white;opacity:0.5;zoom:300%;color:rgb(255,0,0);}80% {border:40px double white;opacity:1;zoom:400%;color:rgb(153,76,9,);}to {zoom:300%;color:rgb(0,252,0);}}
 @keyframes menu{0% {opacity: 0;}100% {opacity:1;}}
 @keyframes bsh{10%,35%,70% {box-shadow: 1 1 5px goldenrod, 9px 3px 9px #00ffff;}  20%,45%,80% {box-shadow: 0 0 3px #DAA520, 5px 2px 5px goldenrod;} 30%,55%,90%  {box-shadow: 0 0 3px #DAA520, 5px 2px 5px #9E1414;}}
 @keyframes mOff{0% {opacity: 1;}50% {opacity: 0.7;}  90% {opacity: 0.3;} 100% {opacity:0;}}
@@ -32,6 +31,5 @@ a:hover{background:none!important;animation: textanm 3s;}
 #entrer.jqx-fill-state-focus,#lrtrn.jqx-fill-state-focus{background:none;text-shadow:none;z-index:-1;}
 #entrer,#lrtrn{border-color:#a40200;border-style:dotted;background-image: url("baf.gif");}#lrtrn{animation: bsh 4s ease-in 9s infinite;box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #9E1414;}
 .jqx-listitem-state-hover{font-size:180%;color:#a40200;text-shadow: 0 0 3px goldenrod, 5px 2px 5px #9E1414;}
-.choice{animation: choice 4s ease-in-out 3;}
 .bcgpop{background-color:rgba(76,28,72,0.2);}
 #tabsrch{background-color:#000000;}
