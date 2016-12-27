@@ -32,4 +32,4 @@ a:hover{background:none!important;animation: textanm 3s;}
 #entrer,#lrtrn{border-color:#00ffff;border-style:dotted;background-image: url("baf.gif");}#lrtrn{box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #00ffff;animation: bsh 4s ease-in 9s infinite;}
 .jqx-listitem-state-hover{font-size:180%;color:#993300;text-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #00ffff;}
 .bcgpop{background-color:rgba(0,255,255,0.4)}
-#tabsrch{background-color:#000000;}
+#tabsrch{background-color:#000000;color:white;width:auto;}
