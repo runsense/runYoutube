@@ -10,7 +10,7 @@
 .nav {margin-top:-10px;width:100%; padding-left: 4%; }
 .nav li{display:inline;text-decoration:none;font-size:90%;}
 .navbar-nav,.uslc,.nav li a:focus{color:#993300;text-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #00ffff;z-index:1;}
-.visit{box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #993300;border-top-right-radius:18em;border-bottom-left-radius:1em;}
+.visit{box-shadow: 0 0 3px #00ffff, 5px 2px 5px #daa520;border-top-right-radius:18em;border-bottom-left-radius:1em;animation: bsh 18s ease-in-out 3s infinite;}
 .nav li a:focus{background-color:black!important;box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #00ffff;border-top-left-radius:18em;border-bottom-right-radius:1em;}
 .onPlay{background-color:rgba(0,255,255,0.4);box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #c2c2a3;border-top-right-radius:18em;border-bottom-left-radius:1em;}
 .jqx-menu {background-color:rgba(0,255,255,0.4);font-weight:bold;text-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #993300;border-color:#00ffff;border-style:dotted;box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #993300;}
