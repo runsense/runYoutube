@@ -31,4 +31,4 @@ a:hover{background:none!important;animation: textanm 3s;}
 #entrer,#lrtrn{border-color:#a40200;border-style:dotted;background-image: url("baf.gif");}#lrtrn{animation: bsh 4s ease-in 5s infinite;box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #004200;}
 .jqx-listitem-state-hover{font-size:180%;color:#a40200;text-shadow: 0 0 3px goldenrod, 5px 2px 5px #004200;}
 .bcgpop{background-color:rgba(21,255,0,0.2);}
-#tabsrch{background-color:#000000;color:white;width:auto;}
+#tabsrch{background-color:#000000;color:white;width:auto;}.tabsrch{animation: boxanm 1s ease-in-out 1s 2;}

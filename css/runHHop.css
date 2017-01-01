@@ -10,7 +10,7 @@ body{background:  url('hhop.png') fixed center;}
 .boxanm{animation: boxanm 4s ease-out 5s infinite;}
 .nav {margin-top: -10px;width:100%; padding-left: 4%; }
 .nav li{display: inline;text-decoration:none; font-size:90%;}
-.navbar-nav,.uslc{color:#a40200;text-shadow: 0 0 3px #DAA520, 5px 2px 5px #a90200;z-index:1;}
+.navbar-nav,.uslc{color:#a40200;text-shadow: 0 0 3px #DAA520, 5px 2px 5px #a90200;z-index:2;}
 .visit{box-shadow: 0 0 3px #D3D3D3, 5px 2px 5px #a40200;border-top-right-radius:18em;border-bottom-left-radius:1em;animation: bsh 9s ease-in-out 3s infinite;}
 .nav li a:focus{background-color:black;border-top-left-radius:18em;border-bottom-right-radius:1em;}
 .onPlay{background-color:rgba(218,165,32, 0.4);box-shadow: 0 0 3px #DAA520, 5px 2px 5px #DAA520;border-top-right-radius:18em;border-bottom-left-radius:1em;}
@@ -32,4 +32,4 @@ a:hover{background:none!important;animation: textanm 3s;}
 #entrer,#lrtrn{border-color:#a40200;border-style:dotted;background-image: url("baf.gif");}#lrtrn{animation: bsh 27s ease-in 1s infinite;box-shadow: 0 0 3px #c2c2a3, 5px 2px 5px #9E1414;}
 .jqx-listitem-state-hover{font-size:180%;color:#a40200;text-shadow: 0 0 3px goldenrod, 5px 2px 5px #9E1414;}
 .bcgpop{background-color:rgba(76,28,72,0.2);}
-#tabsrch{background-color:#000000;color:white;width:auto;}
+#tabsrch{background-color:#000000;color:white;width:auto;}.tabsrch{animation: boxanm 1s ease-in-out 1s 2;}
