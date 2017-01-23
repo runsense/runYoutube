@@ -2,7 +2,8 @@
 a:hover{background:none!important;animation:textanm 3s;}
 #menu{background-color:rgba(0,255,255,0.7);box-shadow:0 0 3px #c2c2a3,5px 2px 5px #00ffff;border-top-left-radius:18em;border-top-right-radius:1em;transform:scaleX(4.5);animation:bsh 8s ease-in infinite;}
 #choix{position:relative;left:15%;}#pl{position:absolute;}
-#dtc{position:absolute;left:15%;top:2%;}#yT{position:relative;left:-1%;}#page{position:absolute;left:18%;top:25%;color:white;opacity:0;z-index:4!important;}
+#dtc{position:absolute;left:15%;top:2%;}#yT{position:relative;left:-1%;}
+#page{position:absolute;left:18%;top:25%;color:white;opacity:0;z-index:4!important;}
 #entrer.jqx-fill-state-focus,#lrtrn.jqx-fill-state-focus{background:none;text-shadow:none;z-index:-1;}
 #entrer,#lrtrn{border-color:#00ffff;border-style:dotted;background-image:url("baf.gif");}#lrtrn{box-shadow:0 0 3px #c2c2a3,5px 2px 5px #00ffff;animation:bsh 6s ease-in 9s infinite;}
 #tabsrch{background-color:#000000;color:white;width:auto;}
