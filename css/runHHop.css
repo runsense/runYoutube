@@ -3,10 +3,11 @@ body{background:url('hhop.png') fixed center;}
 a:hover{background:none!important;animation:textanm 3s;}
 #menu{background-color:rgba(0,0,0,0.7);box-shadow:0 0 3px #c2c2a3,5px 2px 5px #a40200;border-top-left-radius:18em;border-top-right-radius:1em;transform:scaleX(2);animation:bsh 3s ease-out infinite;}
 #choix{position:relative;left:15%;}#pl{position:absolute;}
-#dtc{position:absolute;left:15%;top:2%;}#yT{position:relative;left:-1%;}#page{position:absolute;left:18%;top:25%;color:rgb(255,0,0);opacity:0;z-index:4!important;}
+#Mbox{position:absolute;left:15%;top:2%;}#yT{position:relative;left:-1%;}#page{position:absolute;left:18%;top:25%;color:rgb(255,0,0);opacity:0;z-index:4!important;}
 #tabsrch{background-color:#000000;color:white;width:auto;}
 #entrer,#lrtrn{border-color:#a40200;border-style:dotted;background-image:url("baf.gif");}#lrtrn{animation:bsh 27s ease-in 1s infinite;box-shadow:0 0 3px #c2c2a3,5px 2px 5px #9E1414;}
 #entrer.jqx-fill-state-focus,#lrtrn.jqx-fill-state-focus{background:none;text-shadow:none;z-index:-1;}
+#gv{position:absolute;left:1%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}#gl{position:absolute;right:15%;color:#a90200;}
 .tabsrch{animation:boxanm 1s ease-in-out 1s 2;}
 .navbar-brand{animation:textanm 3s ease-in-out 1s infinite;}
 .boxanm{animation:boxanm 4s ease-out 5s infinite;}
@@ -15,7 +16,7 @@ a:hover{background:none!important;animation:textanm 3s;}
 .navbar-nav,.uslc{color:#a40200;text-shadow:0 0 3px #DAA520,5px 2px 5px #a90200;z-index:2;}
 .visit{box-shadow:0 0 3px #D3D3D3,5px 2px 5px #a40200;border-top-right-radius:18em;border-bottom-left-radius:1em;animation:bsh 9s ease-in-out 3s infinite;}
 .nav li a:focus{background-color:black;border-top-left-radius:18em;border-bottom-right-radius:1em;}
-.onPlay{background-color:rgba(218,165,32,0.4);box-shadow:0 0 3px #DAA520,5px 2px 5px #DAA520;border-top-right-radius:18em;border-bottom-left-radius:1em;}
+.onPlay{background-color:rgba(218,165,32,0.4);box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;border-top-right-radius:18em;border-bottom-left-radius:1em;}
 .jqx-menu{animation:boxanm 6s ease-in-out 0s infinite;background-color:rgba(0,0,0,0);font-weight:bold;text-shadow:0 0 3px #DAA520,5px 2px 5px #a40200;border-color:#goldenrod;border-style:dotted;box-shadow:0 0 3px #D3D3D3,5px 2px 5px #a40200;}
 .jqx-fill-state-hover{font-size:180%;color:black;}
 .anm{animation:menu 1.5s ease-in;opacity:1;}
