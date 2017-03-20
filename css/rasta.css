@@ -6,7 +6,7 @@ a:hover{background:none!important;animation:textanm 3s;}
 #choix{position:relative;left:15%;}#pl{position:absolute;}
 #Mbox{position:absolute;left:15%;top:2%;}#yT{position:relative;left:-1%;}#page{position:absolute;left:18%;top:25%;color:black;opacity:0;z-index:4!important;}
 #entrer.jqx-fill-state-focus,#lrtrn.jqx-fill-state-focus{background:none;text-shadow:none;z-index:-1;}
-#gv{position:absolute;left:1%;box-shadow:0 0 3px #DAA520, 5px 2px 5px #004200;}#gl{position:absolute;right:13%;color:goldenrod;z-index:3;}
+#gv{position:absolute;left:1%;box-shadow:0 0 3px #DAA520, 5px 2px 5px #004200;}#gs{position:absolute;left:22%;color:#004200;z-index:3;}#gl{position:absolute;right:13%;color:goldenrod;z-index:3;}
 .navbar-brand{animation:textanm 4s ease-in-out 1s infinite;}
 .boxanm{animation:boxanm 4s ease-out 5s infinite;}
 .nav {margin-top:-10px;width:100%; padding-left: 4%;}
