@@ -1,0 +1,26 @@
+CONCEPTION
+appscript
+info engine
+
+saving artist name in leaf
+& search corresponding date in enter of runConcert/ as inside
+	saving leaf by parts of env
+	who return in enter music leaf for
+	date of concert if
+
+svgA leaf columns
+name,date,page 
+value of write as object {style:val} {page:number} 
+
+return write in music leaf
+add colum info
+write as array
+of style/date or page & number
+
+async mixyoutube
+async change when boolean is not
+
+slider on gaduamb env with
+effect of
+changement partielle des couleurs
+ou chargement css!!
