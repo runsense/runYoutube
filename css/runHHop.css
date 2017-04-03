@@ -12,7 +12,7 @@ a:hover{background:none!important;animation:textanm 3s;}
 #lrtrn{animation:bsh 27s ease-in 1s infinite;box-shadow:0 0 3px #c2c2a3,5px 2px 5px #9E1414;}
 #entrer.jqx-fill-state-focus,#lrtrn.jqx-fill-state-focus{background:none;text-shadow:none;z-index:-1;}
 #gv{position:absolute;left:1%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}
-#ckCh{position:absolute;left:7%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}
+#ckCh{position:absolute;left:11%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}
 #gs{position:absolute;left:22%;color:rgba(218,165,32,0.2);z-index:3;}
 #gl{position:absolute;right:15%;color:#a90200;z-index:3;}
 .tabsrch{animation:boxanm 1s ease-in-out 1s 2;}
