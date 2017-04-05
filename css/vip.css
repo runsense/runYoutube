@@ -10,10 +10,11 @@ a:hover{background:none!important;animation:textanm 3s;}
 #entrer,#lrtrn{border-color:#00ffff;border-style:dotted;background-image:url("baf.gif");}
 #lrtrn{box-shadow:0 0 3px #c2c2a3,5px 2px 5px #00ffff;animation:bsh 6s ease-in 9s infinite;}
 #tabsrch{background-color:#000000;color:white;width:auto;}
-#gv{position:absolute;left:1%;box-shadow:0 0 3px #00ffff,5px 2px 5px #daa520;}
-#ckCh{position:absolute;left:11%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}
-#gs{position:absolute;left:20%;color:#993300;z-index:3;}
-#gl{position:absolute;right:10%;color:#00ffff;z-index:3;}
+#gv{position:absolute;left:-14%;box-shadow:0 0 3px #00ffff,5px 2px 5px #daa520;}
+#ckCh{position:absolute;left:-3%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}
+#gs{position:absolute;left:7%;color:#993300;z-index:3;}
+#gl{position:absolute;right:25%;color:#00ffff;z-index:3;}
+#lk{position:absolute;right:18%;z-index:3;background-color:darkred;color:white;}#kl{position:absolute;right:18%;z-index:3;background-color:white;color:darkred;}
 .navbar-brand{animation:textanm 6s ease-in-out 1s infinite;}
 .boxanm{animation:boxanm 2s ease-out 1s infinite;}
 .nav{margin-top:-10px;width:100%; padding-left:4%; }

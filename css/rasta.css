@@ -10,10 +10,11 @@ a:hover{background:none!important;animation:textanm 3s;}
 #yT{position:relative;left:-1%;}
 #page{position:absolute;left:18%;top:25%;color:black;opacity:0;z-index:4!important;}
 #entrer.jqx-fill-state-focus,#lrtrn.jqx-fill-state-focus{background:none;text-shadow:none;z-index:-1;}
-#gv{position:absolute;left:1%;box-shadow:0 0 3px #DAA520, 5px 2px 5px #004200;}
-#ckCh{position:absolute;left:11%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}
-#gs{position:absolute;left:22%;color:#004200;z-index:3;}
-#gl{position:absolute;right:13%;color:goldenrod;z-index:3;}
+#gv{position:absolute;left:-14%;box-shadow:0 0 3px #DAA520, 5px 2px 5px #004200;}
+#ckCh{position:absolute;left:-3%;box-shadow:0 0 3px goldenrod,5px 2px 5px #DAA520;}
+#gs{position:absolute;left:7%;color:#004200;z-index:3;}
+#gl{position:absolute;right:25%;color:goldenrod;z-index:3;}
+#lk{position:absolute;right:18%;z-index:3;background-color:darkred;color:white;}#kl{position:absolute;right:18%;z-index:3;background-color:white;color:darkred;}
 .navbar-brand{animation:textanm 4s ease-in-out 1s infinite;}
 .boxanm{animation:boxanm 4s ease-out 5s infinite;}
 .nav {margin-top:-10px;width:100%; padding-left: 4%;}
