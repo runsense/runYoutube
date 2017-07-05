@@ -20,7 +20,8 @@ of style/date or page & number
 async mixyoutube
 async change when boolean is not
 
-slider on gaduamb env with
+slider on gadiamb env with
 effect of
 changement partielle des couleurs
 ou chargement css!!
+ n
