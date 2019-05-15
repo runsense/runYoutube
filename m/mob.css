@@ -1,2 +1,3 @@
 .bx{display:inline-flex;overflow-x: scroll;}
-.bxe{overflow-x: scroll;}
+.bxe{display:inline-flex;}
+
