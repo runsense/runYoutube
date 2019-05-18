@@ -1,5 +1,5 @@
 .bx{display:inline-flex;overflow-x: scroll;}
-.bxe{font-size:0.9em;}
-.style{width:50%;}
+.bxe{display:inline-flex;font-size:0.7em;}
+.style{font-size:0.7em;}
 table,tr,td{border:4px solid;}
 
